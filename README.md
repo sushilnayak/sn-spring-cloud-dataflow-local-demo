@@ -4,7 +4,7 @@
 
   register application w/ URI => maven://com.nayak:cloud‑task‑demo:jar:0.0.1‑SNAPSHOT
 
-- managing-scdf =>  curl --data "task=<registered-app>" localhost:8080/task
+- managing-scdf =>  curl --data "task=[registered-app]" localhost:8080/task
 
 NOTE:
 
